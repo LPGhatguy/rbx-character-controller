@@ -34,18 +34,18 @@
 		<Item class="Camera" referent="RBX3756E04643664949B917E8F0A9963824">
 			<Properties>
 				<CoordinateFrame name="CFrame">
-					<X>-120.602539</X>
-					<Y>27.5775375</Y>
-					<Z>15.8260803</Z>
-					<R00>0.788039267</R00>
-					<R01>0.416739523</R01>
-					<R02>-0.453125089</R02>
+					<X>-121.166382</X>
+					<Y>27.3823605</Y>
+					<Z>15.3704615</Z>
+					<R00>0.432132959</R00>
+					<R01>0.522464275</R01>
+					<R02>-0.735045731</R02>
 					<R10>-0</R10>
-					<R11>0.736040771</R11>
-					<R12>0.676937282</R12>
-					<R20>0.615625024</R20>
-					<R21>-0.533453166</R21>
-					<R22>0.580029011</R22>
+					<R11>0.815078378</R11>
+					<R12>0.57935077</R12>
+					<R20>0.901809931</R20>
+					<R21>-0.250356555</R21>
+					<R22>0.352222204</R22>
 				</CoordinateFrame>
 				<Ref name="CameraSubject">null</Ref>
 				<token name="CameraType">0</token>
@@ -1227,8 +1227,8 @@ return makeCharacter]]></ProtectedString>
 						<Density>0.699999988</Density>
 						<Friction>0</Friction>
 						<Elasticity>0</Elasticity>
-						<FrictionWeight>1</FrictionWeight>
-						<ElasticityWeight>1</ElasticityWeight>
+						<FrictionWeight>100</FrictionWeight>
+						<ElasticityWeight>100</ElasticityWeight>
 					</PhysicalProperties>
 					<float name="Elasticity">0.5</float>
 					<float name="Friction">0.300000012</float>
@@ -1304,9 +1304,7 @@ return makeCharacter]]></ProtectedString>
 						</CoordinateFrame>
 						<bool name="Enabled">true</bool>
 						<string name="Name">WeldConstraint</string>
-						<Ref name="Part0">RBXC59851DB8E4B4497AAC3AD7DD990CF75</Ref>
 						<Ref name="Part0Internal">RBXC59851DB8E4B4497AAC3AD7DD990CF75</Ref>
-						<Ref name="Part1">RBXE1D1C3AF6B854342A0368394B2F404FA</Ref>
 						<Ref name="Part1Internal">RBXE1D1C3AF6B854342A0368394B2F404FA</Ref>
 						<BinaryString name="Tags"></BinaryString>
 					</Properties>
@@ -1345,8 +1343,8 @@ return makeCharacter]]></ProtectedString>
 						<Density>0.699999988</Density>
 						<Friction>0</Friction>
 						<Elasticity>0</Elasticity>
-						<FrictionWeight>1</FrictionWeight>
-						<ElasticityWeight>1</ElasticityWeight>
+						<FrictionWeight>100</FrictionWeight>
+						<ElasticityWeight>100</ElasticityWeight>
 					</PhysicalProperties>
 					<float name="Elasticity">0.5</float>
 					<float name="Friction">0.300000012</float>
@@ -1463,8 +1461,8 @@ return makeCharacter]]></ProtectedString>
 						<Density>0.699999988</Density>
 						<Friction>0</Friction>
 						<Elasticity>0</Elasticity>
-						<FrictionWeight>1</FrictionWeight>
-						<ElasticityWeight>1</ElasticityWeight>
+						<FrictionWeight>100</FrictionWeight>
+						<ElasticityWeight>100</ElasticityWeight>
 					</PhysicalProperties>
 					<float name="Elasticity">0.5</float>
 					<float name="Friction">0.300000012</float>
@@ -1540,9 +1538,7 @@ return makeCharacter]]></ProtectedString>
 						</CoordinateFrame>
 						<bool name="Enabled">true</bool>
 						<string name="Name">WeldConstraint</string>
-						<Ref name="Part0">RBX039BD7745E8749789DA55B42FED71F7B</Ref>
 						<Ref name="Part0Internal">RBX039BD7745E8749789DA55B42FED71F7B</Ref>
-						<Ref name="Part1">RBXE1D1C3AF6B854342A0368394B2F404FA</Ref>
 						<Ref name="Part1Internal">RBXE1D1C3AF6B854342A0368394B2F404FA</Ref>
 						<BinaryString name="Tags"></BinaryString>
 					</Properties>
